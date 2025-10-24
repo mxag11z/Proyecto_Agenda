@@ -1,0 +1,30 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+### Gradle ###
+.gradle/
+build/
+
+### IDEs ###
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+### System ###
+.DS_Store
+Thumbs.db
